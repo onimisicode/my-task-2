@@ -47,24 +47,7 @@ margin-top: 0px;
 } h3{ padding: 10px;
 color: grey; 
 line-height:29px; } 
-.contact{ 
-  background-color:purple; 
-  max-width: 150%; 
-  position: absolute;
-  position: relative;
- right: -13px; 
- bottom: 11px; 
- display: inline-block; 
- padding: 0px; 
- border:1px solid white;
-border-radius: 10px; 
-display: inline-block; 
-top: 1px; } 
-.contact a{ 
-text-decoration:none; 
-padding: 0px 8px; 
-color: white;
-} 
+
 .car p{ 
   margin-left:8px; } 
   @mdia(min-width:100px){ 
