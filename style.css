@@ -1,0 +1,115 @@
+.header
+{ background-color: purple;
+max-width:100%; 
+position: relative; 
+margin-right:0px; 
+line-height: 20px;
+} 
+.header img
+{ width: 90px; 
+border-radius: 22px;
+float:left; 
+font-size: 24px; 
+marging-right: px; 
+positon: relative; 
+position: absolute;
+margin-top:23px; 
+margin-left:5px;
+
+} 
+.info { 
+  max-width: 100%;
+  font-weight: 300px; 
+  font-size: 12px;
+  display: inline-block;
+position: relative;
+left: 85px; 
+padding: 20px; 
+color:white; } 
+.text{ 
+ background-color:
+white; 
+position: absolute; 
+margin-top: 0px; 
+margin-right: 8px; 
+max-width: 100%;
+padding: 0px; 
+color: grey; 
+line-height: 33px; 
+font-size: 25px; } 
+.text{ padding:10px; 
+margin-top: 0px; 
+} 
+.text p{ 
+  padding: 10px;
+  color: grey; 
+  font-size: 30px;
+} h3{ padding: 10px;
+color: grey; 
+line-height:29px; } 
+.contact{ 
+  background-color:purple; 
+  max-width: 150%; 
+  position: absolute;
+  position: relative;
+ right: -13px; 
+ bottom: 11px; 
+ display: inline-block; 
+ padding: 0px; 
+ border:1px solid white;
+border-radius: 10px; 
+display: inline-block; 
+top: 1px; } 
+.contact a{ 
+text-decoration:none; 
+padding: 0px 8px; 
+color: white;
+} 
+.car p{ 
+  margin-left:8px; } 
+  @mdia(min-width:100px){ 
+    .header{
+width:100%; 
+max-height: 100vh; 
+float: left;
+font-size: 30px; 
+marging-right: 50px;
+positon: relative;
+position: absolute; 
+top:4px; 
+margin:50px; } 
+.header img{ 
+width:100px; 
+border-radius: px; 
+float: left; 
+font-size: 45px; 
+marging-right: px; 
+positon:relative; 
+position: absolte; 
+bottom:20px; 
+margin:50px; 
+top:10px; } 
+
+.info { 
+  width: 100%;
+font-weight:600px; 
+font-size: 30px; 
+display: inline-block; 
+position: center; 
+left: 250px;
+padding: 25px; 
+color:white; 
+line-height: 30px;
+margin: auto;
+} 
+  }
+
+
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
